@@ -1,73 +1,61 @@
-# Robert van Meurs – BI & Analytics Portfolio
+
+# 👋 Robert van Meurs – BI & Analytics Portfolio
 
 Welcome to my curated portfolio of Business Intelligence and Data Analytics projects.  
-Each project reflects a real-world business scenario designed to showcase my skills in Power BI, DAX, data modeling, and strategic insight generation.
-
----
-
-## 📁 Project Structure
-
-Each folder contains:
-- `summary.md`: Project overview
-- `.pbix` or `.xlsx`: Working file (when applicable)
-- `dashboard-screenshots/`: Visual exports for GitHub viewing
-- `.pdf`: Printable or shareable portfolio version
-
----
-
-## 🚀 Projects
-
-### 1. [Hotel Data Analytics Dashboard](./hotel-dashboard/)
-**Industry**: Hospitality  
-**Focus**: Occupancy, Revenue, ADR, RevPAR, Forecasting  
-**Tools**: Power BI, DAX, Seasonality, Scenario Planning
-
----
-
-### 2. [CX Feedback Analytics – Concentrix](./concentrix-cx-feedback/)
-**Industry**: Customer Service / Contact Center  
-**Focus**: NPS, CSAT, FCR, Agent Performance  
-**Tools**: Power BI, Sentiment Analysis, Dashboard Design
-
----
-
-### 3. [Chocolate Demand Collapse – Barry Callebaut](./chocolate-demand-collapse/)
-**Industry**: FMCG / Market Intelligence  
-**Focus**: Time Series, Cocoa Pricing, Volume Trends  
-**Tools**: Excel, Power BI, Market Insight Storytelling
-
----
-
-### 4. [AR Aging Intelligence Dashboard](./ar-aging/)
-**Industry**: Finance & Accounts Receivable  
-**Focus**: DSO, Aging Buckets, Risk Segmentation  
-**Tools**: Power BI, Dynamic KPI Views, Collections Insight
-
----
-
-### 5. [Data Warehouse Design Blueprint](./data-warehouse-design/)
-**Industry**: BI Architecture  
-**Focus**: Bronze-Silver-Gold Layering, Dimensional Modeling  
-**Tools**: ERD, Power BI Modeling, Strategy Documentation
-
----
-
-## 🧠 Thought Leadership
-
-📄 **Where Data Analysis Ends and Business Intelligence Begins: A Strategic Perspective**  
-[Download PDF](thought-leadership/Where_Data_Analysis_Ends_BI_Begins.pdf)
-
-A short white paper outlining the strategic distinction between technical analysis and the business intelligence layer that drives decisions.
+Each project demonstrates a real-world scenario across diverse industries, showcasing my capabilities in Power BI, data modeling, analytics storytelling, and strategic BI design.
 
 ---
 
 ## 🧭 About Me
 
-I'm a Business Intelligence Strategist with deep international experience across hospitality, CX, finance, and operational analytics.  
-This portfolio reflects not only what I can build — but how I think.
+Strategic BI Analyst with international experience across hospitality, finance, CX, and operations.  
+I specialize in transforming data into business insight — through clear models, scalable architecture, and executive-ready visuals.
 
-[LinkedIn](https://www.linkedin.com/) | [Email](mailto:rvm97@yahoo.com)
+🔗 [LinkedIn](https://www.linkedin.com/) | 📧 [Email](mailto:rvm97@yahoo.com)
 
 ---
 
-> Data is anonymized and/or simulated for demonstration purposes.# portfolio-projects
+## 🚀 Featured Projects
+
+| Project | Industry | Focus Area | Tools |
+|--------|----------|------------|-------|
+| [🏨 Hotel Data Analytics Dashboard](./hotel-dashboard/) | Hospitality | Forecasting, RevPAR, Occupancy | Power BI, DAX |
+| [🎧 CX Feedback Dashboard – Concentrix](./concentrix-cx-feedback/) | Contact Center | NPS, CSAT, Agent KPIs | Power BI |
+| [🍫 Chocolate Demand Collapse](./chocolate-demand/) | FMCG / Market | Price vs Volume, Investor Sentiment | Power BI, Excel |
+| [📄 AR Aging Intelligence](./ar-aging/) | Finance | DSO, Risk Buckets, Collections | Power BI |
+| [🏗️ Data Warehouse Design Blueprint](./data-warehouse-design/) | BI Architecture | Medallion Layers, Scalability | SQL, Conceptual Modeling |
+
+---
+
+## 🧠 Thought Leadership
+
+### [📘 Where Data Analysis Ends and Business Intelligence Begins](./thought-leadership/Where_Data_Analysis_Ends_BI_Begins.pdf)
+
+A strategic perspective on how BI and DA serve different roles in the decision-making ecosystem — and how organizations can align them for impact.
+
+📁 Folder: [`/thought-leadership/`](./thought-leadership/)
+
+---
+
+## 🧰 Tech Stack
+
+- **BI & Reporting**: Power BI, Excel, Power Query  
+- **Data Modeling**: Star Schema, DAX, Dimensional Design  
+- **Tools**: SQL, Notion, GitHub, Trello  
+- **Industries Covered**: Hospitality, Finance, CX, Market Intelligence, Architecture
+
+---
+
+## 📌 Navigation
+
+Each project folder contains:
+- `README.md`: Project summary  
+- `.pbix` or `.xlsx`: Working files  
+- `dashboard-screenshots/`: Visuals  
+- `.pdf`: Printable version (optional)
+
+All data is simulated or anonymized.
+
+---
+
+Thanks for visiting!
