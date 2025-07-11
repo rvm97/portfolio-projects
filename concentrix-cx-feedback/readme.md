@@ -46,7 +46,7 @@ This solution helps CX leaders:
 - `CXFeedback.pbix`: Power BI working file  
 - `CXFeedback_Portfolio.pdf`: Printable summary document  
 - `dashboard-screenshots/`: Key visual exports  
-- `summary.md`: This project summary
+- `readme.md`: This project summary
 
 ---
 
