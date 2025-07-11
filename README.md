@@ -8,8 +8,11 @@ Each project demonstrates a real-world scenario across diverse industries, showc
 
 ## 🧭 About Me
 
-Strategic BI Analyst with international experience across hospitality, finance, CX, and operations.  
-I specialize in transforming data into business insight — through clear models, scalable architecture, and executive-ready visuals.
+Strategic BI Analyst and Strategist with international experience across hospitality, finance, CX, and operations.  
+I specialize in transforming complex datasets into clear, actionable insights using tools like **Power BI**, **DAX**, and **SQL**. 
+My work bridges business operations and analytical strategy — from cleaning and modeling raw data to delivering dashboards that drive real decisions based on what the data is telling. 
+
+**I bring a modern approach to business intelligence – one that goes far beyond dashboards.**
 
 🔗 [LinkedIn](https://www.linkedin.com/) | 📧 [Email](mailto:rvm97@yahoo.com) | 📄 [Full Profile & Portfolio on Notion](https://robertvm.addpotion.com/)
 
