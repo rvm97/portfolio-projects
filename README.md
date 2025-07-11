@@ -26,7 +26,7 @@ My work bridges business operations and analytical strategy — from cleaning an
 | [CX Feedback Dashboard – Concentrix](./concentrix-cx-feedback/) | Contact Center | NPS, CSAT, Agent KPIs | Power BI |
 | [Chocolate Demand Collapse](./chocolate-demand/) | FMCG / Market | Price vs Volume, Investor Sentiment | Power BI, Excel |
 | [AR Aging Intelligence](./ar-aging/) | Finance | DSO, Risk Buckets, Collections | Power BI |
-| [🏗Data Warehouse Design Blueprint](./data-warehouse-design/) | BI Architecture | Medallion Layers, Scalability | SQL, Conceptual Modeling |
+| [Data Warehouse Design Blueprint](./data-warehouse-design/) | BI Architecture | Medallion Layers, Scalability | SQL, Conceptual Modeling |
 
 ---
 
@@ -36,7 +36,7 @@ My work bridges business operations and analytical strategy — from cleaning an
 
 A strategic perspective on how BI and DA serve different roles in the decision-making ecosystem — and how organizations can align them for impact.
 
-📁 Folder: [`/thought-leadership/`](./thought-leadership/)
+Folder: [`/thought-leadership/`](./thought-leadership/)
 
 ---
 
