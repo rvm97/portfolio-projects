@@ -11,7 +11,7 @@ Each project demonstrates a real-world scenario across diverse industries, showc
 Strategic BI Analyst with international experience across hospitality, finance, CX, and operations.  
 I specialize in transforming data into business insight — through clear models, scalable architecture, and executive-ready visuals.
 
-🔗 [LinkedIn](https://www.linkedin.com/) | 📧 [Email](mailto:rvm97@yahoo.com)
+🔗 [LinkedIn](https://www.linkedin.com/) | 📧 [Email](mailto:rvm97@yahoo.com) | 📄 [Full Profile & Portfolio on Notion](https://robertvm.addpotion.com/)
 
 ---
 
