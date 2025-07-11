@@ -31,7 +31,7 @@ Each folder contains:
 
 ---
 
-### 3. [Chocolate Demand Collapse – Barry Callebaut](./chocolate-demand/)
+### 3. [Chocolate Demand Collapse – Barry Callebaut](./chocolate-demand-collapse/)
 **Industry**: FMCG / Market Intelligence  
 **Focus**: Time Series, Cocoa Pricing, Volume Trends  
 **Tools**: Excel, Power BI, Market Insight Storytelling
