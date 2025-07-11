@@ -55,7 +55,7 @@ Each folder contains:
 ## 🧠 Thought Leadership
 
 📄 **Where Data Analysis Ends and Business Intelligence Begins: A Strategic Perspective**  
-[Download PDF](./Where_Data_Analysis_Ends_BI_Begins.pdf)
+[Download PDF](.thought-leadership/Where_Data_Analysis_Ends_BI_Begins.pdf)
 
 A short white paper outlining the strategic distinction between technical analysis and the business intelligence layer that drives decisions.
 
