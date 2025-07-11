@@ -40,7 +40,7 @@ This layered architecture ensures strong **data governance**, **auditability**, 
 ## 🗂️ Files
 
 - `Data_Warehouse_Design_Summary.pdf`: Printable summary document  
-- `dashboard-screenshots/`: (Optional) Visual diagram showing Medallion layering
+- `Data_Architecture.png`: Visual diagram showing Medallion layering
 
 ---
 
