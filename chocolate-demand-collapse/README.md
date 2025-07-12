@@ -42,7 +42,7 @@ This Power BI case study dissects the performance of Barry Callebaut (SWX:BARN),
 **Robert van Meurs**  
 Strategic BI & Data Analytics Consultant  
 Bulgaria [EU] | Full Remote  
-[LinkedIn](https://www.linkedin.com/in/robert-v-701584283/)) • rvm97@yahoo.com
+[LinkedIn](https://www.linkedin.com/in/robert-v-701584283/) - rvm97@yahoo.com
 
 ---
 
