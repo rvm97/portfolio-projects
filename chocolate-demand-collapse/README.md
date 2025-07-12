@@ -1,4 +1,4 @@
-# 📊 Barry Callebaut BI Dashboard – Strategic Portfolio Project
+# Barry Callebaut BI Dashboard – Strategic Portfolio Project
 
 This Power BI case study dissects the performance of Barry Callebaut (SWX:BARN), the world’s leading chocolate manufacturer, amidst one of the most volatile pricing periods in the cocoa market’s history.
 
@@ -8,7 +8,7 @@ This Power BI case study dissects the performance of Barry Callebaut (SWX:BARN),
 - **Focus**: Business intelligence & financial storytelling
 - **Tools**: Power BI, DAX, Excel, Public Market Data
 
-## 📄 Dashboard Structure
+## Dashboard Structure
 
 ### Page 1: The Big Picture
 > Executive snapshot of revenue, volume, share price, and earnings forecast vs actual
@@ -24,24 +24,24 @@ This Power BI case study dissects the performance of Barry Callebaut (SWX:BARN),
 ### Page 4: Risk Factors & Strategic Outlook
 > Analyst sentiment, revised guidance, and forward-looking risk matrix
 
-## 📈 Key Insights
+## Key Insights
 
-- 📉 Callebaut’s chocolate volume fell –9.5% YoY (Q3 2024/25), exceeding industry decline
-- 📈 Revenue spiked +49.5% as cocoa costs were passed to customers
-- ⚠ Volume recovery is not evident despite easing prices
-- 🧠 Analyst quotes flag weak demand visibility and high debt risk
+- Callebaut’s chocolate volume fell –9.5% YoY (Q3 2024/25), exceeding industry decline
+- Revenue spiked +49.5% as cocoa costs were passed to customers
+- Volume recovery is not evident despite easing prices
+- Analyst quotes flag weak demand visibility and high debt risk
 
-## 📂 Files
+## Files
 
 - `Callebaut_Dashboard.pbix` – Power BI report
 - `Callebaut_Data.xlsx` – Supporting quarterly volume & price data
 - `README.md` – This summary
 
-## 🔧 Author
+## Author
 
 **Robert van Meurs**  
 Strategic BI & Data Analytics Consultant  
-📍 Bulgaria [EU] | 🌐 Full Remote  
+Bulgaria [EU] | Full Remote  
 📫 [LinkedIn](https://www.linkedin.com/in/robertvanmeurs) • rvm97@yahoo.com
 
 ---
