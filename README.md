@@ -14,7 +14,7 @@ My work bridges business operations and analytical strategy — from cleaning an
 
 **I bring a modern approach to business intelligence – one that goes far beyond dashboards**
 
-🔗 [LinkedIn](https://www.linkedin.com/) | 📧 [Email](mailto:rvm97@yahoo.com) | 📄 [Full Profile & Portfolio on Notion](https://robertvm.addpotion.com/)
+[LinkedIn](https://www.linkedin.com/) | [Email](mailto:rvm97@yahoo.com) | [Full Profile & Portfolio on Notion](https://robertvm.addpotion.com/)
 
 ---
 
