@@ -6,14 +6,14 @@
 
 ---
 
-## 📘 Overview
+## Overview
 
 This project outlines the layered architecture of a modern data warehouse designed to support scalable, reliable, and business-ready analytics.  
 Built using the **Medallion Architecture** pattern, the model separates data into Bronze, Silver, and Gold layers — allowing traceability, data quality, and consumption-readiness at every stage.
 
 ---
 
-## 🧱 Layered Architecture
+## Layered Architecture
 
 - **Bronze Layer**: Raw ingestion of unprocessed source data for traceability and debugging.  
 - **Silver Layer**: Cleaned, standardized, and enriched data prepared for analytical use.  
@@ -21,7 +21,7 @@ Built using the **Medallion Architecture** pattern, the model separates data int
 
 ---
 
-## 🔍 Key Features
+## Key Features
 
 - Clear separation of concerns for ETL, modeling, and reporting  
 - Support for fact/dimension modeling and aggregated views  
@@ -30,14 +30,14 @@ Built using the **Medallion Architecture** pattern, the model separates data int
 
 ---
 
-## 🧑‍💼 Use Case
+## Use Case
 
 Ideal for **enterprise BI environments** where multiple teams (data engineers, analysts, and business users) require different levels of access and refinement.  
 This layered architecture ensures strong **data governance**, **auditability**, and **scalability** of reporting pipelines.
 
 ---
 
-## 🗂️ Files
+## Files
 
 - `Data_Warehouse_Design_Summary.pdf`: Printable summary document  
 - `Data_Architecture.png`: Visual diagram showing Medallion layering
