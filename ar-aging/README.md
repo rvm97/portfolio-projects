@@ -35,4 +35,4 @@ This project delivers a modern Accounts Receivable (AR) Aging Dashboard in Power
 
 ## Author Notes
 
-Built in collaboration with an advanced Power BI user. Improves on static accounting system outputs with full interactivity and flexibility.
+Improves on static accounting system outputs with full interactivity and flexibility.
