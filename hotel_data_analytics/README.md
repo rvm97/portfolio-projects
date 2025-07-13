@@ -4,7 +4,7 @@ This repository contains the complete Power BI analytics solution for hotel perf
 
 ---
 
-## 📁 Contents
+## Contents
 
 - `PowerBI/` — Power BI Desktop (.pbix) dashboard file
 - `BigQuery/` — SQL scripts and views used in the data warehouse
@@ -13,13 +13,13 @@ This repository contains the complete Power BI analytics solution for hotel perf
 
 ---
 
-## 🧩 Project Overview
+## Project Overview
 
 The goal of this project is to deliver a unified dashboard that tracks hotel KPIs such as revenue, occupancy, ADR, and RevPAR, while supporting segmentation by guest type, booking channel, room type, and time periods (LN, MTD, YTD, etc.).
 
 ---
 
-## 🧠 Key Modules
+## Key Modules
 
 ### 1. **Daily Performance Summary**
 - Net Room Revenue, Occupancy %, ADR, RevPAR
@@ -46,7 +46,7 @@ The goal of this project is to deliver a unified dashboard that tracks hotel KPI
 
 ---
 
-## 🔍 Dataset Overview
+## Dataset Overview
 
 ### BookingDetails Table (Fact)
 - `booking_id`, `check_in_date`, `check_out_date`, `guest_count`
@@ -62,7 +62,7 @@ The goal of this project is to deliver a unified dashboard that tracks hotel KPI
 
 ---
 
-## ⚙️ BigQuery Views
+## BigQuery Views
 
 Main view: `vw_kpi_summary_by_date`  
 - Includes flags: `isLastNight`, `isMTD`, `isYTD`, etc.  
@@ -76,7 +76,7 @@ Other views:
 
 ---
 
-## 📌 Setup Instructions
+## Setup Instructions
 
 1. Clone this repository and open the Power BI .pbix file.
 2. Update your BigQuery data source credentials in Power BI.
@@ -85,7 +85,7 @@ Other views:
 
 ---
 
-## 🧠 AI Commentary Logic
+## AI Commentary Logic
 
 Each KPI includes AI-generated commentary based on:
 - ADR vs Target ADR
@@ -94,13 +94,13 @@ Each KPI includes AI-generated commentary based on:
 
 ---
 
-## 🔒 Data Privacy & Ethics
+## Data Privacy & Ethics
 
 All data is fully synthetic. Guest names, nationalities, booking patterns, and room behavior are simulated using randomized but realistic distributions.
 
 ---
 
-## 🛠️ Future Enhancements
+## Future Enhancements
 
 - Event-Based Pricing Adjustments
 - Competitor Rate Benchmarking
@@ -109,11 +109,4 @@ All data is fully synthetic. Guest names, nationalities, booking patterns, and r
 
 ---
 
-## 📬 Contact
-
-Created by Robert [Your Last Name]  
-Business Intelligence & Hotel Analytics Professional  
-Connect via LinkedIn | GitHub | Email
-
----
 
