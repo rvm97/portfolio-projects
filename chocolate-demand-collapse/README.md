@@ -4,6 +4,8 @@ This Power BI case study dissects the performance of Barry Callebaut (SWX:BARN),
 
 ## Project Overview
 
+This project was initiated following Barry Callebaut’s July 2025 earnings update, where the company downgraded its volume forecast to –7% YoY and reported its worst Q3 volume drop in over 10 years. The dashboard investigates the financial, market, and operational dynamics behind this reversal.
+
 - **Company**: Barry Callebaut AG (SWX:BARN)
 - **Focus**: Business intelligence & financial storytelling
 - **Tools**: Power BI, DAX, Excel, Public Market Data
