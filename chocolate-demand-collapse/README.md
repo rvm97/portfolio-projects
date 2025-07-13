@@ -39,13 +39,6 @@ This project was initiated following Barry Callebaut’s July 2025 earnings upda
 - `Callebaut_Data.xlsx` – Supporting quarterly volume & price data
 - `README.md` – This summary
 
-## Author
-
-**Robert van Meurs**  
-Strategic BI & Data Analytics Consultant  
-Bulgaria [EU] | Full Remote  
-[LinkedIn](https://www.linkedin.com/in/robert-v-701584283/) | rvm97@yahoo.com
-
 ---
 
 > **Insightful dashboards don’t just show data — they tell the story that drives action.**
