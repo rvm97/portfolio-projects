@@ -51,5 +51,26 @@ robert@medanova.com
 
 ---
 
+## Folder structure
+
+/medanova_salesforce_accelerator/
+├── dashboard/ # PowerPoint file
+├── sql_views/ # SQL view definitions
+├── dax_measures/ # DAX calculations by metric
+├── documentation/ # PDF briefs, prior work declaration
+└── README.md
+
+---
+
+## 🔄 Planned Extensions
+
+- Integration with Salesforce API for live data sync  
+- Alerts for missed renewals and upcoming expirations  
+- Role-based security for reps vs partners  
+- Custom KPIs by industry vertical
+
+---
+
+© 2025 Medanova. All rights reserved.
 
 
