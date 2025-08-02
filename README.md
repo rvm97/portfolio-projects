@@ -22,7 +22,7 @@ My work bridges business operations and analytical strategy — from cleaning an
 
 | Project | Industry | Focus Area | Tools |
 |--------|----------|------------|-------|
-| [Hotel Data Analytics Dashboard](./hotel-dashboard/) | Hospitality | Forecasting, RevPAR, Occupancy | Power BI, DAX |
+| [Hotel Data Analytics Dashboard](./hotel-analytics/) | Hospitality | Forecasting, RevPAR, Occupancy | Power BI, DAX |
 | [CX Feedback Dashboard – Concentrix](./concentrix-cx-feedback/) | Contact Center | NPS, CSAT, Agent KPIs | Power BI |
 | [Chocolate Demand Collapse](./chocolate-demand/) | FMCG / Market | Price vs Volume, Investor Sentiment | Power BI, Excel |
 | [AR Aging Intelligence](./ar-aging/) | Finance | DSO, Risk Buckets, Collections | Power BI |
