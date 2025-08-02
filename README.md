@@ -27,7 +27,7 @@ My work bridges business operations and analytical strategy — from cleaning an
 | [Chocolate Demand Collapse](./chocolate-demand/) | FMCG / Market | Price vs Volume, Investor Sentiment | Power BI, Excel |
 | [AR Aging Intelligence](./ar-aging/) | Finance | DSO, Risk Buckets, Collections | Power BI |
 | [Data Warehouse Design Blueprint](./data-warehouse-design/) | BI Architecture | Medallion Layers, Scalability | SQL, Conceptual Modeling |
-
+| [Salesforce Analytics Accelerator](./Medanova-Salesforce-Analytics-Accelerator) | Salesforce | Contract Performance Analytics | SQL Server, Power BI, DAX |
 ---
 
 ## Thought Leadership
